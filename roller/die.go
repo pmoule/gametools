@@ -5,7 +5,6 @@ import (
 	"math/rand/v2"
 )
 
-var randSource rand.Source
 var D2 *Die = &Die{2}
 var D3 *Die = &Die{3}
 var D4 *Die = &Die{4}
